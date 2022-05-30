@@ -45,7 +45,7 @@ label start :
     
     [player] se mit alors à courir après le petit voleur.
     """
-    jump entry_sanctuary
+    jump c1_entry_sanctuary
     
 
 

@@ -1,4 +1,4 @@
-label vers_le_royaume_popo:
+label c1_momosaure:
     scene popo_castle with Dissolve(0.5)
     mct "Le Royaume Popo..."
     scene before_momo_step with Dissolve(0.5)
@@ -15,6 +15,6 @@ label vers_le_royaume_popo:
             show forest entry at truecenter
             with Dissolve (.5)
             play music start_music
-            jump entry_sanctuary_choice
+            jump c1_entry_sanctuary_choice
         "Revenir au menu principal":
             return

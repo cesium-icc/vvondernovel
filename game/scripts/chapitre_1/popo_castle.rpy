@@ -1,4 +1,4 @@
-label popo_castle:
+label c1_popo_castle:
     show halfblack zorder 100
     w "Alors, qu'en pensez-vous, princesse Hiwamari ?"(name="???")
     show hiwamari at left with moveinleft

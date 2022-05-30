@@ -1,4 +1,4 @@
-label taverne:
+label c1_taverne:
     mct "..."
     mct "Ah ma tête..."
     mct "Qu'est-ce qui s'est passé ?"
@@ -140,4 +140,4 @@ label taverne:
     "Et pour vous mettre l'eau à la bouche, une scène post-générique..."
     stop music fadeout 1
     scene black with Dissolve(1.5)
-    jump popo_castle
+    jump c1_popo_castle

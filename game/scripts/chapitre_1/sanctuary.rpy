@@ -1,6 +1,6 @@
-label sanctuary:
+label c1_sanctuary:
     scene sanctuary with Dissolve(1.5)
-    "Et au sommet de l'escalier, se trouve un autel."
+    "Et au sommet de l'escalier, se trouvait un autel."
     "Et sur cet autel, un poisson."
     "Plus précisément, le poisson de [player]."
     "Et nul chat aux alentours."
@@ -10,4 +10,4 @@ label sanctuary:
     stop music
     scene black
     "{b}*BONK*{/b}"
-    jump taverne
+    jump c1_taverne
